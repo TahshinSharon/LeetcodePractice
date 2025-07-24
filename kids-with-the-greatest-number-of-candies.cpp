@@ -1,6 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
+//https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/1710102082/?envType=study-plan-v2&envId=leetcode-75
 class Solution {
     public:
         vector<bool> kidsWithCandies(vector<int>& candies, int extra) {

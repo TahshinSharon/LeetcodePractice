@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shikho/personal/Learn/LeetcodePractice/reverse-vowels-of-a-string'
+relocations:     []
+...
